@@ -14,6 +14,8 @@ require_once('libs/xml2array.php');
             table td.header {font-weight: bold; text-align: center; background-color: #368EAC; color: #ffffff;}
             div {margin-bottom: 10px;}
         </style>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     </head>
     
     <?php
@@ -42,8 +44,7 @@ require_once('libs/xml2array.php');
             <tr><td>005</td><td>Bryan</td></tr>
         </table>
         -->
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-        
+                
     </body>
        
     
