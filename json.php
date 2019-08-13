@@ -31,7 +31,6 @@ require_once('libs/xml2array.php');
     
     <body>
     
-        <pre><?php ?>;</pre>
         <!--
         <p>Hello, world.</p>
         <table>
